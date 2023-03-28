@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+        <bean id="order" class="com.atguigu.spring5.Bean.Orders" init-method="initMethod" destroy-method="destoryMethod"><!--执行初始化方法-->
+                <property name="oname" value="中文"></property><!--为bean的属性设置值-->
+        </bean>
+
+        <bean id="beanpost" class="com.atguigu.spring5.Bean.MyBeanPost"></bean><!--对配置文件中的所有bean添加后置处理器-->
+</beans>

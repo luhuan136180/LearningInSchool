@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"remix/abc.sol": "Demo"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"remix/abc.sol": {
+			"keccak256": "0xbc664d4a523cdfeec2da40a51908580f767867583e1a249567f509d777ed32b8",
+			"urls": [
+				"bzz-raw://b9c6bfc32c412fb19ed932c3ac87b1f9e7cad883a573bdc0c4d63979137a11e7",
+				"dweb:/ipfs/QmbDx3ZY5XJzzRYTxEEJM8xCWtKw2GkgAjNRsU2gBhDmmo"
+			]
+		}
+	},
+	"version": 1
+}

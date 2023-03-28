@@ -1,0 +1,60 @@
+1.以下HTTP相应状态码的含义描述正确的是（）
+A. 200ok表示请求成功
+B. 400不良请求表示服务器未发现与请求URL匹配内容
+C. 404未发现表示由于语法错误儿导致服务器无法理解请求信息
+D. 500内部服务器错误，无法处理请求
+答案：D
+分析：
+A 200ok 表示的意思是一切正常。一般用于相应GET和POST请求。这个状态码对servlet是缺省的；如果没有调用setStatus方法的话，就会得到200。
+B 400 表示指出客户端请求中的语法错误
+C 404 客户端所给的地址无法找到任何资源
+
+2.JSP页面包括哪些元素？（）
+A. JSP命令
+B. JSP Action
+C. JSP脚本
+D. JSP控件
+答案：C
+分析：JSP页面元素构成如下，因此ABD错误
+A 200ok 表示的意思是一切正常。一般用于相应GET和POST请求。这个状态码对servlet是缺省的；如果没有调用setStatus方法的话，就会得到200。
+B 400 表示指出客户端请求中的语法错误
+C 404 客户端所给的地址无法找到任何资源
+
+3.Ajax有四种技术组成：DOM,CSS,JavaScript，XmlHttpRequest，其中控制文档结构的是（）
+A. DOM
+B. CSS
+C. JavaScript
+D. XmlHttpRequest
+答案：A
+
+4.下面关于session的用法哪些是错误的？（）
+A. HttpSession session=new HttpSession();
+B. String haha=session getParameler(:haha”);
+C. session.removeAttribute(“haha”);
+D. session.setAttribute(:haha:);XmlHttpRequest
+答案：A
+
+
+5.以下JavaScipt语句会产生运行错误的是_（）
+A. var obj=( );
+B. var obj=[ ];
+C. var obj=//;
+D. var obj=1;
+答案：AC
+
+6.在JSP中，下面__（）__块中可以定义一个新类：
+A. <% %>
+B. <% ! %>
+C. <%@ %>
+D. <%=%>
+答案：B
+分析：B <% ! %> 可用作声明
+A不正确
+C为引用xxx，比如<% @page xxxxx%>
+D为表达式
+
+7.当DOM加载完成后要执行的函数，下面哪个是正确的()
+A. JQuery（expression, [context]）
+B. JQuery（html, [ownerDocument]）
+C. JQuery（callback）
+答案：C

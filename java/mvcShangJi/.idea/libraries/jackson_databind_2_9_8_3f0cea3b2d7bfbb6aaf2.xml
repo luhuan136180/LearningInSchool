@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jackson-databind-2.9.8_3f0cea3b2d7bfbb6aaf2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.9.8_3f0cea3b2d7bfbb6aaf2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.9.8_d954bffadb1962726f89.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.9.8_1709e913069c7a6ae667.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.11.0_786656bd8bb716b0d0bd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.4_4c2560ae4d5cd9107ec7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-5.1.4.release_bff1eeaded048d29b49d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-5.1.4.release_392eaa693f5299862045.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5_16da157eaeb4d25d21c5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5_49fc03989e4440cbf4fd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

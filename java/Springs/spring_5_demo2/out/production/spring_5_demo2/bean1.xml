@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--配置p名称空间-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+        <bean id="stu01" class="com.atguigu.spring5.collectiontype.Stu">
+            <property name="courses">
+                <array>
+                    <value>毛</value>
+                    <value>王</value>
+                    <value>甘</value>
+                    <value>黄</value>
+                    <value>易</value>
+                    <value>号</value>
+                    <value>xin</value>
+                </array>
+            </property>
+            <property name="list">
+                <list>
+                    <value>m</value>
+                    <value>s</value>
+                    <value>a</value>
+                    <value>sd</value>
+                    <value>ad</value>
+                    <value>zx</value>
+                    <value>xixcz</value>
+                </list>
+            </property>
+            <property name="maps">
+                <map>
+                    <entry key="A" value="a"></entry>
+                    <entry key="B" value="b"></entry>
+                    <entry key="C" value="c"></entry>
+                    <entry key="D" value="d"></entry>
+                    <entry key="E" value="e"></entry>
+                    <entry key="F" value="f"></entry>
+
+                </map>
+            </property>
+            <property name="set">
+                <set>
+                    <value>maohax</value>
+                    <value>java</value>
+                </set>
+            </property>
+
+
+            <!--想list集合中注入对象类型的值-->
+            <property name="listCourses">
+                <list>
+                    <ref bean="course01"></ref>
+                    <ref bean="course02"></ref>
+                </list>
+            </property>
+        </bean>
+
+        <bean id="course01" class="com.atguigu.spring5.collectiontype.Course">
+            <property name="cname" value="java"></property>
+        </bean>
+
+        <bean id="course02" class="com.atguigu.spring5.collectiontype.Course">
+            <property name="cname" value="web"></property>
+        </bean>
+</beans>

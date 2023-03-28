@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--内部bean-->
+    <bean id="emp01" class="com.atguigu.spring5.neibuBean.Emp">
+        <property name="dept">
+            <bean id="dept01" class="com.atguigu.spring5.neibuBean.Dept">
+                <property name="dname" value="人事部"></property>
+            </bean>
+        </property>
+        <property name="sname" value="lucy"></property>
+        <property name="gender" value="女"></property>
+    </bean>
+
+    <!--联级xiefa-->
+    <bean id="emp02" class="com.atguigu.spring5.neibuBean.Emp">
+        <property name="sname" value="jack"></property>
+        <property name="gender" value="男"></property>
+        <property name="dept" ref="dept02"></property>
+    </bean>
+    <bean id="dept02" class="com.atguigu.spring5.neibuBean.Dept">
+        <property name="dname" value="财政部"></property>
+    </bean>
+</beans>

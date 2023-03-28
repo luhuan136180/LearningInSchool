@@ -1,0 +1,6 @@
+com\atguiug\mapreduce\wordcount2\WordCountReducer.class
+com\atguiug\mapreduce\wordcount2\WordCountMapper.class
+com\atguiug\mapreduce\wordcount\WordCountDriver.class
+com\atguiug\mapreduce\wordcount\WordCountMapper.class
+com\atguiug\mapreduce\wordcount2\WordCountDriver.class
+com\atguiug\mapreduce\wordcount\WordCountReducer.class

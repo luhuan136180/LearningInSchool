@@ -1,0 +1,5 @@
+1.数据库为root,root
+2.新建exam数据库
+3.运行exam.sql文件
+4.将file文件放在Tomcat的此项目下（以前用户上传的文件示例）
+ 

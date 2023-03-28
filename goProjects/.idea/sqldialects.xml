@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/BookForGoWebProgram/Chapter2_chitvhat/data/setup.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/gwp-master/Chapter_6_Storing_Data/sql_store1/store.go" dialect="GenericSQL" />
+  </component>
+</project>

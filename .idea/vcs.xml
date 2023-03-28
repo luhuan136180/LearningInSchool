@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/for智能合约/jes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/for智能合约/smartcontractpractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/for智能合约/smartcontractpractice_new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/for智能合约/test1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/for智能合约/托尔斯泰" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/apex/log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/bos-hieu/mongostore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/cespare/xxhash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/ethereum/go-ethereum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/ethereum/go-ethereum/tests/evm-benchmarks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/ethereum/go-ethereum/tests/testdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/gin-contrib/sessions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/gin-contrib/sse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/gin-gonic/gin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/globalsign/mgo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/go-ini/ini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/go-playground/validator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/go-redis/redis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/go-stack/stack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/jinzhu/gorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/jinzhu/inflection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/jinzhu/now" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/jmoiron/sqlx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/lib/pq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/mattn/go-isatty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/mattn/go-sqlite3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/natefinch/lumberjack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/pelletier/go-toml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/quasoft/memstore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/rs/zerolog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/sirupsen/logrus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/stretchr/testify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/ugorji/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/github.com/zhaopuyang/golang-tts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/go.mongodb.org/mongo-driver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/go.uber.org/atomic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/go.uber.org/zap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/gopkg.in/inconshreveable/log15.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/gopkg.in/yaml.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/gopkg.in/yaml.v3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/gorm.io/driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/gorm.io/driver/sqlite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goProjects/src/gorm.io/gorm" vcs="Git" />
+  </component>
+</project>

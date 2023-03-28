@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/github.com/apex/log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/cespare/xxhash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-stack/stack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/jinzhu/gorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/jinzhu/inflection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/rs/zerolog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/sirupsen/logrus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gorm.io/driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gorm.io/driver/sqlite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gorm.io/gorm" vcs="Git" />
+  </component>
+</project>

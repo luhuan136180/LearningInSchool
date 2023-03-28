@@ -1,0 +1,6 @@
+i=input('字符')
+print(' ',' ',i,' ',' ')
+print(' ',i,i,i,' ')
+print(i,i,i,i,i)
+print(' ',i,i,i,' ')
+print(' ',' ',i,' ',' ')
